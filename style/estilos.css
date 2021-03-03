@@ -1,0 +1,41 @@
+body{			/* Parametros do BODY */
+	background-color: aquamarine;
+	
+}
+
+main{			/* Parametros do MAIN */
+	background-color: white;
+    width: 1200px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.432);
+}
+
+#didi{			/* ID para DIV primária que define sua largura */
+	width: 480px;
+}
+
+.bordas{		/* CLASS para DIV primária que define suas bordas */
+	background-color: white;
+	float: left;
+	border: solid red 2px;
+	margin: 50px;
+	padding: 5px;
+}
+
+.bordas01{			/* CLASS para DIVs secundárias que define suas bordas e parametros */
+	float: center;
+	border: solid red 2px;
+	margin: 50px;
+	margin-top: 5px;
+	padding: 5px;
+}
+
+.bordas02{		/* CLASS para DIV primária que define suas bordas */
+	background-color: white; 
+	float: right;
+	width: 470px;
+	border: solid red 2px;
+	margin: 50px;
+	padding: 5px;
+}
