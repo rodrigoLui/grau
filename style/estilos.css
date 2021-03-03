@@ -18,14 +18,14 @@ main{			/* Parametros do MAIN */
 .bordas{		/* CLASS para DIV primária que define suas bordas */
 	background-color: white;
 	float: left;
-	border: solid red 2px;
+	/*border: solid red 2px;*/
 	margin: 50px;
 	padding: 5px;
 }
 
 .bordas01{			/* CLASS para DIVs secundárias que define suas bordas e parametros */
 	float: center;
-	border: solid red 2px;
+	/*border: solid red 2px;*/
 	margin: 50px;
 	margin-top: 5px;
 	padding: 5px;
@@ -35,7 +35,7 @@ main{			/* Parametros do MAIN */
 	background-color: white; 
 	float: right;
 	width: 470px;
-	border: solid red 2px;
+	/*border: solid red 2px;*/
 	margin: 50px;
 	padding: 5px;
 }
